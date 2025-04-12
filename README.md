@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Bianca 👋 (But you can call me Bee 🐝)
 
-<!--
-**TokiLoshi/TokiLoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📝 Journalist → Student in International Relations and Economics → 🚀 Startup Founder → 💼 Marketer → 👩‍💻 Developer
 
-Here are some ideas to get you started:
+## What I'm Up To
+- 🚜 Building an inventory management system with Next.js for a dragon fruit farm in Mozambique
+- 🌐 Exploring the 3D and GLSL with Three.js Journey (and working on Bruno Simon's Island themed challenge!)
+- 📚 Self-teaching myself backend engineering with Boot.dev and shaders with Simon.dev 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Tools
+- Typescript and Next.js for web applications
+- ReactThree Fiber and anything by pmndrs collective for three.js  
+- Python and Django for backend solutions
+- Currently learning GO and glsl
+
+## Let's Connect!
+If you're interested in unconventional paths into tech, sustainable agriculture, or just want to chat about anything web or 3D, feel free to reach out!
+- 🐦 Twitter: [@3DBeeing](https://twitter.com/3DBeeing)
