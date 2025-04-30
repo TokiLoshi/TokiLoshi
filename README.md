@@ -5,7 +5,7 @@
 ## What I'm Up To
 - 🚜 Building an inventory management system with Next.js for a dragon fruit farm in Mozambique
 - 🌐 Exploring the 3D and GLSL with Three.js Journey (and working on Bruno Simon's Island themed challenge!)
-- 📚 Self-teaching myself backend engineering with Boot.dev and shaders with Simon.dev 
+- 📚 Studying backend web development with Boot.dev and shaders with Simon.dev 
 
 ## Languages & Tools
 - Typescript and Next.js for web applications
