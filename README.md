@@ -9,7 +9,7 @@
 
 ## Languages & Tools
 - Typescript and Next.js for web applications
-- ReactThree Fiber and anything by pmndrs collective for three.js  
+- ReactThree Fiber and enjoying all things by the pmndrs collective for three.js  
 - Python and Django for backend solutions
 - Currently learning GO and glsl
 
