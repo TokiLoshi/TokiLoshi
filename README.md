@@ -1,6 +1,6 @@
 # Hi there, I'm Bianca 👋 (But you can call me Bee or Toki 🐝)
 
-📝 Journalist → Student in International Relations and Economics → 🚀 Startup Founder → 💼 Marketer → 👩‍💻 Developer
+📝 Journalist → Student in International Relations and Economics → 🚀 Startup Founder → 💼 Marketer → 👩‍💻 Developer (hopeful)
 
 ## What I'm Up To
 - 🚜 Building an inventory management system with Next.js for a dragon fruit farm in Mozambique
