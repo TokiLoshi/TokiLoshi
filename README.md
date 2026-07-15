@@ -1,7 +1,7 @@
 # Hi there, I'm Bianca 👋 (But you can call me Bee🐝 or Toki)
 
 ## It's been a journey to get here
-📝 Journalist → Student in International Relations and Economics → 🚀 Startup Founder → 💼 Marketer / Consultant → 👩‍💻 Developer
+📝 Journalist → Student in International Relations and Economics → 🚀 Startup Founder → 💼 Marketer / Consultant + 👩‍💻 Developer
 
 ## What I'm Up To
 - Building Cozy Chapter ☕️ a cozy 3D room to track movies, books, articles, audiobooks, courses, plant health and a terminal emulator filled with easter eggs
