@@ -15,5 +15,6 @@
 ## Languages & Tools
 - Typescript, React, Node and Express (I prefer Next.js and Tanstack for web applications)
 - ReactThree Fiber and enjoying all things by the pmndrs collective for three.js  
-- Python and Django 
-- Currently learning glsl 
+- Python and Django
+- Go
+- Currently learning glsl and GDScript
