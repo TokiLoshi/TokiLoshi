@@ -17,4 +17,5 @@
 - ReactThree Fiber and enjoying all things by the pmndrs collective for three.js  
 - Python and Django
 - Go
-- Currently learning glsl and GDScript
+- GDScript
+- Currently learning glsl and React Native with Expo
